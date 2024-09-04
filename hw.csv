@@ -1,1 +1,21 @@
-pos_neg_neural,pos_neg
+utterance,pos_neg,pos_neg
+Do you have any apples?,positive,neutral
+I like your apples.,positive,positive
+I can't stand your apples.,negative,negative
+Apples, apples, everywhere.,positive,neutral
+What else is there, besides apples?,negative,neutral
+I fondly dream of never seeing another apple.,negative,negative
+Do you dream of shooting all the apples into space also?,positive,neutral
+Apples in my blood. Apples in my brain.,negative,neutral
+The waxen surface of the apple burns my eye with its mirrored light.,negative,negative
+Which apple flavor do you wish to savor?,positive,neutral
+I clean with apples.,positive,neutral
+I clean my body with apples like soap.,positive,neutral
+My pile of apples is reeking.,negative,neutral
+I lament the onset of respiratory illness due to the mold.,negative,neutral
+The stench feels at home to me now.,positive,positive
+I wish I were an apple.,negative,neutral
+Plucked from a tree, complete.,positive,positive
+Selected to ambassador, from my fine flesh's appearance.,positive,positive
+Sprayed down, waxed, and chilled to preserve.,positive,neutral
+Adorned with equals and dark boxes until I greet my reckoning.,negative,negative
