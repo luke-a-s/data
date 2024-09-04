@@ -1,4 +1,4 @@
-utterance,pos_neg,pos_neg
+utterance,pos_neg,pos_neg_neutral
 "Do you have any apples?",positive,neutral
 "I like your apples.",positive,positive
 "I can't stand your apples.",negative,negative
